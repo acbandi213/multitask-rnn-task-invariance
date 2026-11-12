@@ -1,0 +1,21 @@
+{
+ "iters": 20000,
+ "seconds_total": 12242.02510380745,
+ "sec_per_iter": 0.6105407056689263,
+ "mean_T_steps": 170.6059,
+ "K": 10,
+ "batch": 64,
+ "device": "mps",
+ "crit_iter": [
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null,
+  null
+ ]
+}

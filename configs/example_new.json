@@ -1,0 +1,16 @@
+{
+ "_comment": "Template for a new set of networks: copy, rename and edit. Any key of DEFAULTS in src/mtrnn/train.py can be set here.",
+ "name": "example_new",
+ "act": "relu",
+ "layout": "shared",
+ "easy_dm": true,
+ "dms_min_offset_deg": 20.0,
+ "mask_pre_ms": 100,
+ "max_iters": 20000,
+ "seeds": [
+  0,
+  1,
+  2
+ ],
+ "n_units": 256
+}

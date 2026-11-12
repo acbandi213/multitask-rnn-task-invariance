@@ -1,0 +1,72 @@
+{
+  "figure": "figure_s7",
+  "title": "Figure S7 — robustness of the multitask-RNN results",
+  "source": "notebook layout (no .ai page yet)",
+  "page": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "panels": {
+    "a": {
+      "label": {"text": "a", "x": 43.18, "y": 83.24, "origin": [43.18, 94.1], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [
+        {"file": "figs7.svg", "box": [37.51, 67.33, 518.74, 402.52], "how": "whole figure, 1:1", "drop_labels": true, "fixed": true}
+      ]
+    },
+    "b": {
+      "label": {"text": "b", "x": 295.46, "y": 83.24, "origin": [295.46, 94.1], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "c": {
+      "label": {"text": "c", "x": 423.02, "y": 83.24, "origin": [423.02, 94.1], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "d": {
+      "label": {"text": "d", "x": 43.18, "y": 224.97, "origin": [43.18, 235.83], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "e": {
+      "label": {"text": "e", "x": 170.74, "y": 224.97, "origin": [170.74, 235.83], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "f": {
+      "label": {"text": "f", "x": 295.46, "y": 224.97, "origin": [295.46, 235.83], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "g": {
+      "label": {"text": "g", "x": 43.18, "y": 343.92, "origin": [43.18, 354.78], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "h": {
+      "label": {"text": "h", "x": 295.46, "y": 344.03, "origin": [295.46, 354.89], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    }
+  },
+  "extras": {
+    "rules": [],
+    "text": []
+  }
+}

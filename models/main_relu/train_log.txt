@@ -1,0 +1,40 @@
+   500 loss 0.0081 perf mean 0.713 min-task (median net) 0.016 max rate 9.4 nets at criterion 0/10 worst ['RT Anti', 'Anti', 'Dly Anti'] 0.600 s/it 301s
+  1000 loss 0.0042 perf mean 0.852 min-task (median net) 0.391 max rate 11.5 nets at criterion 0/10 worst ['Match', 'DNMS', 'DNMC'] 0.596 s/it 598s
+  1500 loss 0.0033 perf mean 0.901 min-task (median net) 0.414 max rate 9.0 nets at criterion 0/10 worst ['Match', 'DNMC', 'DNMS'] 0.590 s/it 887s
+  2000 loss 0.0029 perf mean 0.905 min-task (median net) 0.383 max rate 9.6 nets at criterion 0/10 worst ['Match', 'DNMS', 'DNMC'] 0.597 s/it 1198s
+  2500 loss 0.0025 perf mean 0.930 min-task (median net) 0.461 max rate 9.8 nets at criterion 0/10 worst ['Match', 'DNMS', 'DNMC'] 0.600 s/it 1506s
+  3000 loss 0.0024 perf mean 0.921 min-task (median net) 0.469 max rate 9.8 nets at criterion 0/10 worst ['DNMS', 'Match', 'DNMC'] 0.601 s/it 1809s
+  3500 loss 0.0021 perf mean 0.957 min-task (median net) 0.641 max rate 9.2 nets at criterion 0/10 worst ['DNMS', 'Match', 'DNMC'] 0.602 s/it 2113s
+  4000 loss 0.0022 perf mean 0.946 min-task (median net) 0.617 max rate 12.6 nets at criterion 0/10 worst ['DNMS', 'Match', 'DNMC'] 0.603 s/it 2419s
+  4500 loss 0.0015 perf mean 0.955 min-task (median net) 0.531 max rate 9.5 nets at criterion 0/10 worst ['DNMS', 'Match', 'DNMC'] 0.604 s/it 2725s
+  5000 loss 0.0016 perf mean 0.957 min-task (median net) 0.617 max rate 8.9 nets at criterion 0/10 worst ['Match', 'DNMS', 'Ctx Dly DM 1'] 0.604 s/it 3027s
+  5500 loss 0.0013 perf mean 0.970 min-task (median net) 0.797 max rate 10.6 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.605 s/it 3336s
+  6000 loss 0.0013 perf mean 0.967 min-task (median net) 0.781 max rate 11.2 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.605 s/it 3639s
+  6500 loss 0.0013 perf mean 0.968 min-task (median net) 0.781 max rate 9.2 nets at criterion 0/10 worst ['DNMS', 'Match', 'DNMC'] 0.606 s/it 3948s
+  7000 loss 0.0012 perf mean 0.972 min-task (median net) 0.812 max rate 11.0 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.606 s/it 4256s
+  7500 loss 0.0012 perf mean 0.969 min-task (median net) 0.773 max rate 9.9 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.607 s/it 4563s
+  8000 loss 0.0014 perf mean 0.961 min-task (median net) 0.773 max rate 11.0 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 1'] 0.608 s/it 4873s
+  8500 loss 0.0012 perf mean 0.965 min-task (median net) 0.773 max rate 11.4 nets at criterion 0/10 worst ['DNMS', 'Match', 'DNMC'] 0.608 s/it 5179s
+  9000 loss 0.0007 perf mean 0.974 min-task (median net) 0.773 max rate 10.8 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.608 s/it 5489s
+  9500 loss 0.0012 perf mean 0.977 min-task (median net) 0.781 max rate 10.6 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.609 s/it 5799s
+ 10000 loss 0.0008 perf mean 0.979 min-task (median net) 0.812 max rate 12.3 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.609 s/it 6109s
+ 10500 loss 0.0007 perf mean 0.979 min-task (median net) 0.805 max rate 11.1 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.610 s/it 6422s
+ 11000 loss 0.0010 perf mean 0.979 min-task (median net) 0.805 max rate 10.9 nets at criterion 0/10 worst ['DNMS', 'DMS', 'Ctx Dly DM 2'] 0.610 s/it 6730s
+ 11500 loss 0.0010 perf mean 0.977 min-task (median net) 0.781 max rate 11.5 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.610 s/it 7037s
+ 12000 loss 0.0014 perf mean 0.974 min-task (median net) 0.789 max rate 13.2 nets at criterion 0/10 worst ['DNMS', 'Ctx Dly DM 2', 'Ctx DM 2'] 0.610 s/it 7345s
+ 12500 loss 0.0008 perf mean 0.980 min-task (median net) 0.812 max rate 12.2 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.610 s/it 7651s
+ 13000 loss 0.0010 perf mean 0.980 min-task (median net) 0.836 max rate 12.8 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 1'] 0.611 s/it 7958s
+ 13500 loss 0.0008 perf mean 0.979 min-task (median net) 0.805 max rate 13.0 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 1'] 0.611 s/it 8266s
+ 14000 loss 0.0011 perf mean 0.978 min-task (median net) 0.812 max rate 11.8 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.611 s/it 8571s
+ 14500 loss 0.0007 perf mean 0.983 min-task (median net) 0.828 max rate 10.8 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.611 s/it 8879s
+ 15000 loss 0.0009 perf mean 0.978 min-task (median net) 0.828 max rate 11.3 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 1'] 0.611 s/it 9184s
+ 15500 loss 0.0008 perf mean 0.980 min-task (median net) 0.828 max rate 13.9 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.611 s/it 9487s
+ 16000 loss 0.0007 perf mean 0.982 min-task (median net) 0.836 max rate 14.6 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.611 s/it 9794s
+ 16500 loss 0.0008 perf mean 0.977 min-task (median net) 0.820 max rate 14.5 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.611 s/it 10102s
+ 17000 loss 0.0008 perf mean 0.978 min-task (median net) 0.820 max rate 10.8 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.611 s/it 10407s
+ 17500 loss 0.0008 perf mean 0.979 min-task (median net) 0.844 max rate 12.4 nets at criterion 0/10 worst ['DNMS', 'Ctx Dly DM 2', 'Match'] 0.610 s/it 10709s
+ 18000 loss 0.0007 perf mean 0.982 min-task (median net) 0.836 max rate 14.7 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.610 s/it 11016s
+ 18500 loss 0.0006 perf mean 0.979 min-task (median net) 0.828 max rate 12.5 nets at criterion 0/10 worst ['Match', 'DNMS', 'DMS'] 0.611 s/it 11325s
+ 19000 loss 0.0006 perf mean 0.979 min-task (median net) 0.852 max rate 12.3 nets at criterion 0/10 worst ['DNMS', 'Match', 'DMS'] 0.611 s/it 11629s
+ 19500 loss 0.0009 perf mean 0.977 min-task (median net) 0.805 max rate 12.4 nets at criterion 0/10 worst ['Match', 'DNMS', 'DMC'] 0.611 s/it 11935s
+ 20000 loss 0.0005 perf mean 0.982 min-task (median net) 0.852 max rate 13.4 nets at criterion 0/10 worst ['DNMS', 'Match', 'Ctx Dly DM 2'] 0.611 s/it 12241s

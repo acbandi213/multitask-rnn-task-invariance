@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+.DS_Store
+.pytest_cache/
+
+# results are downloaded (scripts/download_results.py) or recomputed, never committed
+/results/
+/dist/
+
+# networks you train yourself go to models/<name>/ and are yours to commit or not; the paper's seven sets are tracked

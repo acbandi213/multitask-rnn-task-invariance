@@ -1,0 +1,15 @@
+# Versions the results were produced with (Python 3.11). The stored panel results are pandas pickles, so keep pandas at 2.0.x
+# to read them; the other pins matter less.
+numpy==1.24.3
+scipy==1.11.1
+pandas==2.0.3
+pyarrow==11.0.0
+scikit-learn==1.3.0
+statsmodels==0.14.0
+joblib==1.2.0
+torch==2.3.0
+matplotlib==3.7.2
+lxml==4.9.3
+jupyter
+nbconvert
+pytest

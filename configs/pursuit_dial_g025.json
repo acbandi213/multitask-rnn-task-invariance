@@ -1,0 +1,23 @@
+{
+ "_comment": "Extended Data Figure 7 g (right): as main_relu, with a fraction 0.25 of the pursuit answer on the shared eye ring and the rest on its own ring.",
+ "name": "pursuit_dial_g025",
+ "act": "relu",
+ "layout": "partial",
+ "easy_dm": true,
+ "dms_min_offset_deg": 20.0,
+ "mask_pre_ms": 100,
+ "max_iters": 20000,
+ "seeds": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "pursuit_share": 0.25
+}

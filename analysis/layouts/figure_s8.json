@@ -1,0 +1,58 @@
+{
+  "figure": "figure_s8",
+  "title": "Figure S8 — what TI and TD units do in the multitask RNN",
+  "source": "notebook layout (no .ai page yet)",
+  "page": {
+    "width": 612.0,
+    "height": 792.0
+  },
+  "panels": {
+    "a": {
+      "label": {"text": "a", "x": 43.18, "y": 83.24, "origin": [43.18, 94.1], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [
+        {"file": "figs8.svg", "box": [37.51, 67.33, 518.74, 260.79], "how": "whole figure, 1:1", "drop_labels": true, "fixed": true}
+      ]
+    },
+    "b": {
+      "label": {"text": "b", "x": 295.46, "y": 83.24, "origin": [295.46, 94.1], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "c": {
+      "label": {"text": "c", "x": 43.18, "y": 202.29, "origin": [43.18, 213.15], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "d": {
+      "label": {"text": "d", "x": 170.74, "y": 202.29, "origin": [170.74, 213.15], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "e": {
+      "label": {"text": "e", "x": 295.46, "y": 202.29, "origin": [295.46, 213.15], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    },
+    "f": {
+      "label": {"text": "f", "x": 423.02, "y": 202.29, "origin": [423.02, 213.15], "size": 12.0},
+      "kind": "svg",
+      "content": null,
+      "parts": [],
+      "note": "drawn by the whole-figure SVG attached to panel a"
+    }
+  },
+  "extras": {
+    "rules": [],
+    "text": []
+  }
+}

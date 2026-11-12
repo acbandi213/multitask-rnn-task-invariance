@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mtrnn"
+version = "1.0.0"
+description = "Yang et al. (2019)-style multitask RNNs read with task-invariant / task-dependent single-unit analyses"
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.10"
+authors = [{ name = "Akhil Bandi" }]
+dependencies = [
+    "numpy", "scipy", "pandas", "pyarrow", "scikit-learn", "statsmodels", "joblib", "torch>=2.1",
+]
+
+[project.optional-dependencies]
+figures = ["matplotlib", "lxml", "jupyter", "nbconvert"]
+test = ["pytest"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+markers = ["slow: recomputes results from the networks (minutes)"]
