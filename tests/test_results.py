@@ -35,7 +35,7 @@ def test_reference_values_are_the_ones_in_the_stored_panels(results):
                 assert d[sp]['data'][p] == pytest.approx(ref[sp][p], abs=1e-12), (name, sp, p)
 
 
-def test_performance_panel_is_reproduced(results, monkeypatch):
+def test_performance_panel_is_reproduced(results, features, monkeypatch):
     out = capture(monkeypatch, R); R.panel_performance()
     old = EC.load('performance'); new = out['performance']
     pd.testing.assert_frame_equal(new['perf'].reset_index(drop=True), old['perf'].reset_index(drop=True))

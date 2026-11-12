@@ -59,7 +59,8 @@ cd analysis && jupyter nbconvert --to notebook --execute --inplace figure_5.ipyn
 ```
 
 or open the notebooks in Jupyter from the `analysis/` folder. Panels are written to `analysis/figures/<figure>/` and the statistics
-of every panel to `analysis/tables/` (both are committed, so `git diff` shows whether anything changed). While the repository is
+of every panel to `analysis/tables/`. Both are committed: `git diff analysis/tables` shows whether any number changed (the figure
+files always differ, because they embed a creation time). While the repository is
 private the download uses the GitHub command-line tool (`gh auth login` once).
 
 ### 2. The results, from the trained networks
@@ -129,7 +130,7 @@ python -m pytest
 checks the task battery, a short training run, every shipped network against its stored config hash and performance fingerprint,
 that each file in `configs/` reproduces the settings of the shipped set, and that the stored results are complete and consistent.
 `python -m pytest --slow` also recomputes two panels from the networks and the stored features and compares them with the stored
-results.
+results (about 6 min). Tests that need `results/` or the features are skipped until those are downloaded.
 
 ## Terms
 
